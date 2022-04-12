@@ -86,5 +86,20 @@
       Amirreza Heydari</a
     >
     |
+
+    <a
+      href="https://www.instagram.com/amirrezaheydariinsta/"
+      style="
+        text-decoration: none;
+        color: white;
+        background-color: rgb(4, 41, 255);
+        padding: 2px 5px;
+        border-radius: 5px;
+      "
+    >
+      Instagram Page Me!</a
+    >
+    |
+
   </body>
 </html>
