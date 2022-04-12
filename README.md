@@ -1,8 +1,8 @@
-# buffer-login-page
+# buffer-login-page | Free
 
 <html lang="en">
   <body>
-    <img src="Buffer - Log In_files/buffer-screen.png" style="width: 700px" />
+    <img src="Buffer - Log In_files/buffer-screen.png" style="width: 700px; display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0px 0px 30px #FADE2A;" />
     <h1></h1>
     <p>
       All the original files to create the <mark>login page</mark> as shown
