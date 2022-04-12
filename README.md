@@ -86,8 +86,7 @@
       Amirreza Heydari</a
     >
     |
-
-    <a
+<a
       href="https://www.instagram.com/amirrezaheydariinsta/"
       style="
         text-decoration: none;
@@ -100,6 +99,5 @@
       Instagram Page Me!</a
     >
     |
-
   </body>
 </html>
